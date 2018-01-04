@@ -1,0 +1,27 @@
+{
+  "name": "v-nestable",
+  "version": "0.0.1",
+  "description": "vue2 component for nestable",
+  "main": "src/index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScoLib/v-nestable.git"
+  },
+  "keywords": [
+    "vue",
+    "nestable"
+  ],
+  "author": "klgd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScoLib/v-nestable/issues"
+  },
+  "homepage": "https://github.com/ScoLib/v-nestable#readme",
+  "dependencies": {
+    "nestable2": "^1.6.0",
+    "vue": "^2.5.2"
+  }
+}
