@@ -1,7 +1,7 @@
+import Component from './component'
 
-
-function plugin(Vue) {
-    if (plugin.installed) return
+export default {
+    install (Vue) {
+        Vue.component('vNestable', Component)
+    }
 }
-
-export default plugin
